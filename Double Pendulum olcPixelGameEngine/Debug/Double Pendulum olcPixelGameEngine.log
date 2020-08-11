@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\ahmed\source\repos\Double Pendulum animated olcPixelGameEngine\Double Pendulum olcPixelGameEngine\Source.cpp(74,54): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ahmed\source\repos\Double Pendulum animated olcPixelGameEngine\Double Pendulum olcPixelGameEngine\Source.cpp(74,41): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ahmed\source\repos\Double Pendulum animated olcPixelGameEngine\Double Pendulum olcPixelGameEngine\Source.cpp(74,27): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\ahmed\source\repos\Double Pendulum animated olcPixelGameEngine\Double Pendulum olcPixelGameEngine\Source.cpp(74,14): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+  Double Pendulum olcPixelGameEngine.vcxproj -> C:\Users\ahmed\source\repos\Double Pendulum animated olcPixelGameEngine\Double Pendulum olcPixelGameEngine\Debug\Double Pendulum olcPixelGameEngine.exe

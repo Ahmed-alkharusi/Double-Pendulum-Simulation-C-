@@ -1,0 +1,2 @@
+C:\Users\ahmed\source\repos\Double Pendulum animated olcPixelGameEngine\Double Pendulum olcPixelGameEngine\Debug\Double Pendulum olcPixelGameEngine.exe
+C:\Users\ahmed\source\repos\Double Pendulum animated olcPixelGameEngine\Double Pendulum olcPixelGameEngine\Debug\Double Pendulum olcPixelGameEngine.pdb
